@@ -1,0 +1,35 @@
+"struk app managemen json"
+
+"Update APP JSON"
+https://api.audiosmaxs.com/app/equalizer/updateapp
+
+{
+  "versionCode": 1,
+  "app_stuck": false,
+  "pesaninfo":"app sekarang sedang update",
+  "url_remote": "https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery.pro",
+  "update_aktip": false
+}
+
+"admob config"
+https://api.audiosmaxs.com/app/equalizer/admobconfig
+
+{
+  "iklan_admob":true
+  "id_admob_banner": "ca-aa",
+  "id_admob_inter": "ca-aa",
+  "id_admob_nativ":"ca-aa",
+  "id_admob_openads":"ca-aa"
+}
+
+
+"ads Inapp"
+https://api.audiosmaxs.com/app/equalizer/inaapconfig
+
+{
+  "ad_inapp":true
+  "ad_inapp_baner_url":"https://cek.api.com"
+  "ad_inapp_promoapp_url":"https://cek.api.com"
+  "ad_inapp_interfull_url":"https://cek.api.com"
+  "ad_inpp_onlyspalash_url":"https://cek.api.com"
+}
