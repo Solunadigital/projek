@@ -19,9 +19,20 @@ https://api.audiosmaxs.com/app/equalizer/admobconfig
   "id_admob_banner": "ca-aa",
   "id_admob_inter": "ca-aa",
   "id_admob_nativ":"ca-aa",
+  "id_admob_adsrewards":"ca-aa",
   "id_admob_openads":"ca-aa"
 }
 
+"FAN config"
+https://api.audiosmaxs.com/app/equalizer/fanconfig
+
+{
+  "iklan_fan":true
+  "id_fan_banner": "ca-aa",
+  "id_fan_inter": "ca-aa",
+  "id_fan_nativ":"ca-aa",
+  "id_fan_adsrewards":"ca-aa"
+}
 
 "ads Inapp"
 https://api.audiosmaxs.com/app/equalizer/inaapconfig
